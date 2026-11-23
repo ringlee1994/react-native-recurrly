@@ -2,7 +2,6 @@ import { Link } from "expo-router";
 import { styled } from 'nativewind';
 import { Text } from "react-native";
 import { SafeAreaView as RNSafeAreaView } from "react-native-safe-area-context";
-import "../../../global.css";
 
 const SafeAreaView = styled(RNSafeAreaView)
 
